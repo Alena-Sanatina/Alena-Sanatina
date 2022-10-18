@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently studying to be a tester
 <!--
 **Alena-Sanatina/Alena-Sanatina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
